@@ -8,10 +8,15 @@ Hire me! Software Developer🚀
 ### [Read more about me](https://makozi.github.io/) – [Contact me](mailto:marizumakozi97@gmail.com) — [PDF Resume]()
 
 
-###Content
+### Content
+
+
 [About](#about) 
+
 [Experience](#experience)
+
 [Skills](#skills) 
+
 [Github Projects](#github-projects)
 
 
