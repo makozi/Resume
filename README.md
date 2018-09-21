@@ -84,7 +84,7 @@ ECMA2015 (ES6),  PHP, Agile, Web Performance, Page Optimization, Python, REST,  
 > Developing new ideas and maintaining the website of clients.  Working with a distributed team of developers & designers, supervising their work and deploying new features. Works on many projects.
 
 
-**ZevDesigns**
+**FreeLance Software Developer**
     
     Lagos, Nigeria
 	July 2018 - Present
