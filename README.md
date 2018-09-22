@@ -46,13 +46,13 @@ July 2017
 
 
 ### Certificates
-![image](images/Front-end Certificate.png)
+<!-- ![image](images/Front-end Certificate.png)
 ![image](images/Front-end Certificate.png")
 
 ![image](images/Meet-up facilitator.png)
 
 
-![image](images/web specialist.png)
+![image](images/web specialist.png) -->
 
 
 
@@ -64,8 +64,7 @@ July 2017
 * CSS / SASS / Less
 * Javascript 
 * Node.js
-* MVC / MV* 
-* git (-flow)
+* git 
 * React
 * VueJs
 
