@@ -41,7 +41,7 @@ solutions to difficult problems.
 University of Nigeria Nsukka
 Bachelor of Science
 Computer Science/Statistics
-July 2017
+September 2013 - July 2017
 ```
 
 
@@ -68,7 +68,7 @@ July 2017
 * React
 * VueJs
 
-ECMA2015 (ES6),  PHP, Agile, Web Performance, Page Optimization, Python, REST,  jQuery, Gulp & Grunt, LAMP, Markdown, Sublime Text, Visual Studio Code.
+ECMA2015 (ES6),  PHP, Agile, Web Performance, Page Optimization, Python, REST,  jQuery, Markdown, Sublime Text, Visual Studio Code.
 
 
 ## Experience
