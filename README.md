@@ -42,7 +42,7 @@ solutions to difficult problems.
 University of Nigeria Nsukka
 Bachelor of Science
 Computer Science/Statistics
-September 2013 - git July 2017
+September 2013 - July 2017
 ```
 
 
