@@ -5,7 +5,8 @@ Hire me! Software Developer🚀
 # Marizu-Ibewiro Makozi
 ## Software Developer
 
-### [Read more about me](https://makozi.github.io/) – [Contact me](mailto:marizumakozi97@gmail.com) — [PDF Resume]()
+### [Read more about me](https://makozi.github.io/) – [Contact me](mailto:marizumakozi97@gmail.com)
+ <!-- — [PDF Resume]() -->
 
 
 ### Content
@@ -66,9 +67,9 @@ September 2013 - git July 2017
 * Python
 * Flask
 * Node.js
-<!-- * git  -->
 * React
 * VueJs
+<!-- * git  -->
 
 ECMA2015 (ES6),  PHP, Agile, Web Performance, Page Optimization, Python, REST,  jQuery, Markdown, Sublime Text, Visual Studio Code.
 
